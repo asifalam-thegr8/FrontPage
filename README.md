@@ -1,5 +1,5 @@
 <div align="center">
-Made for the front page of the github profile, but didnt work out, as I didn't know that I have to make a repositpry of the same name as the
+Made for the front page of the github profile, but didnt work out, as I didn't know that I have to make a repositpry of the same name as the username
 Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
